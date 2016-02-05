@@ -1,9 +1,6 @@
 # bgsights
 The app for bulgarian beautiful sights and mountains!
 
-ios-swift-example
-=================
-
 __Description:__  
 
 This is an iOS application for bulgarian beautiful sights and mountains, written entirely in Swift, with a little help from Xcode :)
@@ -28,7 +25,7 @@ License
 
     The MIT License (MIT)
 
-    Copyright (c) 2016 Deyan Marinov
+    Copyright (c) 2015 Deyan Marinov
 
     Permission is hereby granted, free of charge, to any person obtaining a copy of
     this software and associated documentation files (the "Software"), to deal in
