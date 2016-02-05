@@ -5,7 +5,7 @@ __Description:__
 
 This is an iOS application for bulgarian beautiful sights and mountains, written entirely in Swift, with a little help from Xcode :)
 
-![ios-swift-screenshot-1.png](https://dl.dropboxusercontent.com/u/12352209/GitHub/ios-swift-screenshot-1.png)&nbsp;
+![ios-swift-screenshot-1.png](https://photos-6.dropbox.com/t/2/AADNZ2qIwU36xK7CgLej9N7FePJMBbUWcTwkCkuq-Ohwaw/12/312503614/png/32x32/1/_/1/2/scr2.png/EIby8LMCGL4BIAcoBw/RC_gzUOwCXnbr3e8QJ8KhSCG4GqZkeAokXgfnNxpR8g?size=1024x768&size_mode=3)&nbsp;
 ![ios-swift-screenshot-2.png](https://dl.dropboxusercontent.com/u/12352209/GitHub/ios-swift-screenshot-2.png)
 
 __Building:__  
