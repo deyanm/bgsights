@@ -9,8 +9,8 @@
 import UIKit
 
 class MenuTableViewController: UITableViewController {
-    var menuItems = ["Home", "News", "Tech", "Finance", "Reviews"]
-    var currentItem = "Home"
+    var menuItems = ["Начало", "Забележителности", "Контакти", "Информация"]
+    var currentItem = "Начало"
     
     override func viewDidLoad() {
         super.viewDidLoad()

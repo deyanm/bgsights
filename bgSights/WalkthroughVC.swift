@@ -1,5 +1,5 @@
 //
-//  WalkthroughVC.swift
+//  WalkViewController.swift
 //  bgSights
 //
 //  Created by Deyan Marinov on 1/31/16.
@@ -9,10 +9,30 @@
 import UIKit
 
 class WalkthroughVC: UIViewController {
-
+    
+    @IBOutlet weak var voditel: UIImageView!
+    @IBOutlet weak var sun: UIImageView!
+    @IBOutlet weak var cloud: UIImageView!
+    @IBOutlet weak var person: UIImageView!
+   
     override func viewDidLoad() {
         super.viewDidLoad()
 
+    }
+    
+    override func viewWillAppear(animated: Bool) {
+        super.viewWillAppear(animated)
+        
+        voditel.center.x  -= view.bounds.width
+        sun.center.x -= view.bounds.width
+    }
+    
+    override func viewDidAppear(animated: Bool) {
+        super.viewDidAppear(animated)
+        
+        UIView.animateWithDuration(3.0, animations: {
+            self.voditel.center.x += self.view.bounds.width
+        })
     }
 
     override func didReceiveMemoryWarning() {
