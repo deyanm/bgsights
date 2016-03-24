@@ -1,4 +1,4 @@
-# bgsights
+# Bulgarian Sights
 The app for bulgarian beautiful sights and mountains!
 
 __Description:__  
